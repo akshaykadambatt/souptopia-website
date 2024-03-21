@@ -22,10 +22,10 @@ export default function Home() {
               Roasted Butternut Squash Soup
             </p>
             <p className="text-sm mb-4">
-              Oh yeah. It's the best part. It's crunchy, it's explosive, it's
+              {`Oh yeah. It's the best part. It's crunchy, it's explosive, it's
               where the muffin breaks free of the pan and sort of does it's own
               thing. I'll tell you. That's a million dollar idea right there.
-              Just sell the tops.
+              Just sell the tops.`}
             </p>
             <div className="call-to-action">
               <button>

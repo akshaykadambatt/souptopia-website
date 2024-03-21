@@ -38,7 +38,7 @@ export function Menu() {
               <a href="#" className="text-4xl">Menu</a>
             </li>
             <li className="py-4">
-              <a href="#" className="text-4xl">Shop</a>
+              <a href="https://order.cuboh.com/store/grocery-garden-waterloo/souptopia?isSandbox=false&menuID=b91040e0-2e63-4cba-8489-d2cdfee8941c&companyName=grocery-garden-waterloo&merchantName=grocery-garden-waterloo" className="text-4xl">Shop</a>
             </li>
             <li className="py-4">
               <a href="#" className="text-4xl">About Us</a>
